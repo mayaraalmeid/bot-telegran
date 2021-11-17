@@ -1,2 +1,2 @@
 # Bot-Telegram-com-telegraf
-Bot para Marcação de consultas medicas
+Bot para Marcação de consultas medicas usando JavaScript.
